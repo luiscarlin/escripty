@@ -1,7 +1,4 @@
 rootProject.name = 'escripty'
 
-include 'escripty-message-service'
-project(':escripty-message-service').projectDir = new File('../escripty-message-service')
-
-include 'escripty-webapp'
-project(':escripty-webapp').projectDir = new File('../escripty-webapp')
+includeFlat 'escripty-message-service'
+includeFlat 'escripty-webapp'
