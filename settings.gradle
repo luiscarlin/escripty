@@ -1,0 +1,4 @@
+rootProject.name = 'escripty'
+
+include 'escripty-message-service'
+include 'escripty-webapp'
