@@ -10,10 +10,9 @@ This is a sample multi-module project using Gradle and Liberty
   git clone <this-project>
   cd <this-project>
 
-  cd escripty/build
+  cd escripty/escripty-build
   ./gradlew clean build libertyStart
   ```
 - Open http://localhost:9080/myLibertyApp
-
 
 > Note: Swagger user/pass = guest/password
