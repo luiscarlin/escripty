@@ -21,8 +21,8 @@ import org.junit.Test;
 
 public class LibertyRestEndpointTest extends EndpointTest {
 
-   // @Test
+    @Test
     public void testDeployment() {
-        testEndpoint("/rest", "Hello World from the REST endpoint!");
+        testEndpoint("/rest", "Hello World from the Message Service");
     }
 }
