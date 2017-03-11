@@ -1,0 +1,4 @@
+rootProject.name = 'project'
+
+includeFlat 'project-message-service'
+includeFlat 'project-webapp'
