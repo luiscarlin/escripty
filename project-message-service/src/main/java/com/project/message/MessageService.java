@@ -1,4 +1,4 @@
-package com.escripty.message;
+package com.project.message;
 
 public class MessageService {
     public String getMessage() {

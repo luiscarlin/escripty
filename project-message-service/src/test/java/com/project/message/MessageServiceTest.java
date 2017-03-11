@@ -1,6 +1,6 @@
-package com.escripty.message;
+package com.project.message;
 
-import com.escripty.message.MessageService;
+import com.project.message.MessageService;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

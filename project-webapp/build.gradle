@@ -57,7 +57,7 @@ repositories {
 }
 
 dependencies {
-    compile project(':escripty-message-service')
+    compile project(':project-message-service')
 
     testCompile 'junit:junit:4.12'
     testCompile 'org.apache.cxf:cxf-rt-rs-client:3.1.1'

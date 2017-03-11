@@ -1,6 +1,18 @@
-# escripty
+# sample-gradle-multi-jee-rest-liberty
 
-This is a sample multi-module project using Gradle and Liberty
+This is a sample project
+
+
+## Technologies Used
+
+| Type       | Name            |
+| ---------- |:--------------: |
+| Build Tool | Gradle          |
+| Structure  | Multi-module    |
+| Framework  | Java EE         |
+| Type       | Rest API        |
+| Server     | Liberty Profile |
+
 
 ## Run
 
@@ -10,7 +22,7 @@ This is a sample multi-module project using Gradle and Liberty
   git clone <this-project>
   cd <this-project>
 
-  cd escripty/escripty-build
+  cd project/project-master
   ./gradlew clean build libertyStart
   ```
 - Open http://localhost:9080/myLibertyApp

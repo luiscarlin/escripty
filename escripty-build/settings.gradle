@@ -1,4 +1,0 @@
-rootProject.name = 'escripty'
-
-includeFlat 'escripty-message-service'
-includeFlat 'escripty-webapp'
