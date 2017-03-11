@@ -22,7 +22,7 @@ This is a sample project
   git clone <this-project>
   cd <this-project>
 
-  cd project/project-master
+  cd <this-project>/project-master
   ./gradlew clean build libertyStart
   ```
 - Open http://localhost:9080/myLibertyApp
